@@ -5,6 +5,10 @@
     {% else %}
     <title>Welcome to Microblog</title>
     {% endif %}
+    {% block scripts %}
+
+    {{moment.include_moment() }}
+    {% endblock %}
 </head>
 <body>
 <div>Microblog:
@@ -30,5 +34,6 @@
 {%endwith%}
 
 {% block content %}{% endblock %}
+
 </body>
 </html>

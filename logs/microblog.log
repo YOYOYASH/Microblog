@@ -48,3 +48,6 @@ Traceback (most recent call last):
     raise SMTPServerDisconnected('please run connect() first')
 smtplib.SMTPServerDisconnected: please run connect() first
 2023-09-06 11:56:21,500 INFO: Microblog startup [in C:\Users\Yash\PycharmProjects\microblog\app\__init__.py:30]
+2023-09-07 12:45:06,491 INFO: Microblog startup [in C:\Users\Yash\PycharmProjects\microblog\app\__init__.py:31]
+2023-09-07 12:45:10,909 INFO: Microblog startup [in C:\Users\Yash\PycharmProjects\microblog\app\__init__.py:31]
+2023-09-07 12:45:15,693 INFO: Microblog startup [in C:\Users\Yash\PycharmProjects\microblog\app\__init__.py:31]
